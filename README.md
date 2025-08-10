@@ -5,10 +5,9 @@
   </a>
 </p>
 
-
 ---
 
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://github.com/wonyoungE/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=wonyoungE" />
   </a>
