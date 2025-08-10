@@ -1,15 +1,10 @@
 <div style="display: flex">
-  <div>
-    
     [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&width=435&lines=%F0%9F%90%B2+Won+Young+%F0%9F%90%B2)](https://git.io/typing-svg)
     
     <p>🍏 성장중인 개발자</p>
-  </div>
-  <div>
-    
+
     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonyoungE)](https://github.com/wonyoungE/github-readme-stats)
   
-  </div>
 </div>
 
 ---
