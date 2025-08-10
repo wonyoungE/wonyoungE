@@ -1,19 +1,16 @@
-<div style="display: flex">
 <div style="text-align:center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=26&duration=4000&pause=1000&color=000000&background=FFFFFF9F&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%90%B2Won+Young%F0%9F%90%B2" alt="Typing SVG" /></a>
 <p>🍏 성장중인 개발자</p>
 </div>
 
-<div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonyoungE)](https://github.com/wonyoungE/github-readme-stats)
-    
+<div style="display: flex; gap: 20px;">
+  <a href="https://github.com/wonyoungE/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=wonyoungE" />
+  </a>
+  <a href="https://github.com/wonyoungE/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonyoungE" />
+  </a>
 </div>
-</div>
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonyoungE)](https://github.com/wonyoungE/github-readme-stats)
 
 ---
 
