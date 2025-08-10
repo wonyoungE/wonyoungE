@@ -3,6 +3,8 @@
 <p>🍏 성장중인 개발자</p>
 </div>
 
+---
+
 <div style="display: flex; gap: 20px;">
   <a href="https://github.com/wonyoungE/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=wonyoungE" />
