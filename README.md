@@ -7,14 +7,15 @@
 
 ---
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; gap: 20px;">
+<p align="center">
   <a href="https://github.com/wonyoungE/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=wonyoungE" />
   </a>
   <a href="https://github.com/wonyoungE/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonyoungE" />
   </a>
-</div>
+</p>
+
 
 ---
 
