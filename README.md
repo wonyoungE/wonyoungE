@@ -11,11 +11,9 @@
   <a href="https://github.com/wonyoungE/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=wonyoungE" />
   </a>
-  </p>
   <a href="https://github.com/wonyoungE/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonyoungE" />
   </a>
-  </p>
 </div>
 
 ---
