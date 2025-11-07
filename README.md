@@ -30,13 +30,15 @@
 
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dragon%20Face.png" alt="Dragon Face" width="25" height="25" /> Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dragon%20Face.png" alt="Dragon Face" width="25" height="25" /></h2>
-  <a href="https://www.linkedin.com/in/원영-손-408208395/">
+  <a href="https://www.linkedin.com/in/원영-손-408208395/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:wony2633@gmail.com">
+
+  <a href="mailto:wony2633@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
-  <a href="https://github.com/wonyoungE/">
+  
+  <a href="https://github.com/wonyoungE/" target="_blank">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
